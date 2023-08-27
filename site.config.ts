@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '闲云小筑',
+  name: '黛西花园',
   domain: 'https://www.notion.so/931b30c4768e4b5aac058574137eaa33',
   author: '故此长流',
 
